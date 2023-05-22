@@ -1,0 +1,232 @@
+/* Main section */
+
+.Latest {
+    margin: 50px 0px;
+    color: #1D2F38;
+    font-weight: 400;
+
+
+}
+
+.main {
+    display: flex;
+    gap: 50px;
+
+    .main1 {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+
+        h1 {
+            font-size: 30px;
+            color: #1D2F38;
+            font-family: "Bitter";
+            font-weight: 400;
+
+        }
+
+        p {
+            font-family: Raleway;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 20px;
+            color: #1D2F38;
+
+
+
+        }
+    }
+
+    .main2 {
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+
+        img {
+            width: 50%;
+        }
+
+        .img-section1 {
+
+            display: flex;
+            align-items: center;
+            gap: 20px;
+
+            p {
+                font-family: 'Raleway';
+
+                font-weight: 400;
+                font-size: 18px;
+                line-height: 25px;
+
+
+
+                color: #1D2F38;
+
+            }
+        }
+
+        .img-section2 {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+
+            p {
+                font-family: 'Raleway';
+
+                font-weight: 400;
+                font-size: 18px;
+                line-height: 25px;
+
+
+
+                color: #1D2F38;
+
+            }
+        }
+
+        .img-section3 {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+
+            p {
+                font-family: 'Raleway';
+
+                font-weight: 400;
+                font-size: 18px;
+                line-height: 25px;
+
+
+
+                color: #1D2F38;
+
+            }
+        }
+    }
+
+
+}
+
+p {
+    font-family: 'Raleway';
+    color: #1D2F38;
+}
+
+.view {
+    display: flex;
+    gap: 10px;
+    margin: 100px 0;
+
+    img {
+        width: 20px;
+        height: 20px;
+    }
+
+}
+
+.setting {
+    margin: 100px 0;
+    background-image: url(../Media/bg-view.png);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    font-size: 28px;
+
+    img {
+        width: 50px;
+        height: 50px;
+    }
+
+    button {
+        background: #17A550;
+        border-radius: 5px;
+        padding: 20px;
+        border: none;
+        color: white;
+    }
+}
+
+.product {
+    h1 {
+        margin-top: 80px;
+        font-family: 'Bitter';
+        font-size: 38px;
+        color: #1D2F38;
+
+
+    }
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    gap: 50px;
+
+    .card1 {
+        background-color: #F7F9FA;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+
+        h1 {
+            padding: 0 25px;
+        }
+
+        p {
+            padding: 0 25px;
+            font-size: 15px;
+            line-height: 20px;
+
+        }
+
+
+    }
+
+    .card2 {
+        background-color: #F7F9FA;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+
+
+        h1 {
+            padding: 0 25px;
+        }
+
+        p {
+            padding: 0 25px;
+            font-size: 15px;
+            line-height: 20px;
+
+        }
+
+
+    }
+
+    .card3 {
+        background-color: #F7F9FA;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+
+        h1 {
+            padding: 0 25px;
+        }
+
+        p {
+            padding: 0 25px;
+            font-size: 15px;
+            line-height: 20px;
+
+        }
+
+
+    }
+
+
+
+
+}
